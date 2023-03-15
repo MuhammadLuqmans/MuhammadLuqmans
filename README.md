@@ -4,7 +4,46 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Blockchain expert
 -----------------------------------
 
-I am a FULL STACK DEVELOPER who is able to deal with Frontend and Backend. I can develop beautiful, dynamic, mobile responsive, and pixel-perfect websites. I can also develop robust APIs/endpoints. I am a senior (React.js) JavaScript Developer and (React.js and Next.js) Designer and developer having more than +3 year of experience in the field of web development Frontend 1. React.js 2. Web3.js 3. Next.js 4. Gatsby 5. React Hooks 6. Material-UI 7. Tailwind-CSS 8. Bootstrap 9. Material-UI 10. React Native 11. React Redux and Redux-toolkit 12. TypeScript Backend Development 1. Node.js 2. Express 3. GraphQL (Apollo) Blockchain Development 1. Solidity 2. Web3.js 3. Ethers.js 4. Hardhat 3. Moralis Database 1. FounaDB 2. MySQL 3. MongoDB 4. AWS 5. Google Firebase 6. GitHub 7. Bit bucket 8. RESTful, CMS Development 1. WordPress 2. Shopify
+I am a FULL STACK DEVELOPER who is able to deal with Frontend and Backend. I can develop beautiful, dynamic, mobile responsive, and pixel-perfect websites. I can also develop robust APIs/endpoints. I am a senior (React.js) JavaScript Developer and (React.js and Next.js) Designer and developer having more than +3 years of experience in the field of web development
+Frontend
+1. React.js
+2. Web3.js
+3. Next.js
+4. Gatsby
+5. React
+6. Hooks 
+7. Material-UI
+8. Tailwind-CSS
+9. Bootstrap
+10. Material-UI
+11. React Native
+12. React Redux and Redux-toolkit 
+13. TypeScript
+
+Backend Development
+1. Node.js
+2. Express 
+3. GraphQL (Apollo)
+
+Blockchain Development
+1. Web3.js
+2. Ethers.js
+3. Hardhat 
+4. Moralis
+
+Database 
+1. FounaDB 
+2. MySQL
+3. MongoDB
+4. AWS
+5. Google Firebase 
+6. GitHub
+7. Bit bucket
+8. RESTful,
+
+CMS Development 
+1. WordPress
+2. Shopify
 
 * 🌍  I'm based in https://www.linkedin.com/in/muhammad-luqman-716952225/
 * ✉️  You can contact me at [luqmanaslam0303@gmail.com](mailto:luqmanaslam0303@gmail.com)
