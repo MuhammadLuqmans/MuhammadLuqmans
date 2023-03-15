@@ -50,8 +50,8 @@ CMS Development
 * 🧠  I'm learning Metaverse and Solidity
 * 🤝  I'm open to collaborating on Blockchain project
 
-<a href="https://www.github.com/MuhammadLuqman" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MuhammadLuqman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Luqman86733381" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/MuhammadLuqmans" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MuhammadLuqmans?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Luqman86733381" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Luqman86733381?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -114,16 +114,16 @@ src="https://img.shields.io/twitter/follow/Luqman86733381?logo=twitter&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Muhammad Luqman#6562" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MuhammadLuqman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-luqman-716952225" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Luqman86733381" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Muhammad Luqman#6562" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MuhammadLuqmans" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-luqman-716952225" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Luqman86733381" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MuhammadLuqman"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadLuqman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadLuqman's GitHub stats" /></a>
+<a href="http://www.github.com/MuhammadLuqmans"><img src="https://github-readme-stats.vercel.app/api?username=MuhammadLuqmans&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MuhammadLuqman's GitHub stats" /></a>
 
-<a href="http://www.github.com/MuhammadLuqman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadLuqman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MuhammadLuqmans"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadLuqmans&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/MuhammadLuqman"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadLuqman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/MuhammadLuqmans"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadLuqmans&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
