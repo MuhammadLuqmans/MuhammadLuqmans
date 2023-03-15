@@ -45,7 +45,7 @@ CMS Development
 1. WordPress
 2. Shopify
 
-* 🌍  I'm based in https://www.linkedin.com/in/muhammad-luqman-716952225/
+* 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [luqmanaslam0303@gmail.com](mailto:luqmanaslam0303@gmail.com)
 * 🧠  I'm learning Metaverse and Solidity
 * 🤝  I'm open to collaborating on Blockchain project
