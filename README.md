@@ -30,6 +30,7 @@ Blockchain Development
 2. Ethers.js
 3. Hardhat 
 4. Moralis
+5. Solana
 
 Database 
 1. FounaDB 
